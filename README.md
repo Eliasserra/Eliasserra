@@ -1,6 +1,6 @@
 ## Hi there 👋
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/elias-serra-167675249/)
-<[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Eliasserra=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)!--
+<[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Eliasserra=anuraghazra)](https://github.com/Eliasserra/github-readme-stats)!--
 **Eliasserra/Eliasserra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
