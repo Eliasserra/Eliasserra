@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Atualmente estou estudando para ser um Desenvolvedor Fullstack. <br>Front-End: Html, Css e Javascript.<br>Back-End: Java e PHP.<br>Banco de Dados: MySql, Sql Sever, MongoDB.</p>
+<p align="left">Atualmente estou estudando para ser um Desenvolvedor Fullstack. <br>Front-End: Html, Css e Javascript.<br>Back-End: Java POO .<br>Banco de Dados: MySql, Sql Sever, MongoDB.</p>
 
 ###
 
